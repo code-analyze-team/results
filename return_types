@@ -1,0 +1,9 @@
+### JReturn 
+	JReturnStmt_return r2
+
+	JReturnStmt_return 999
+
+	JReturnStmt_return \"Property \'mapperLocations\' was not specified or no matching resources found\"
+
+### JReturnVoidStmt
+	JReturnVoidStmt_return

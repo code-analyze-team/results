@@ -1,0 +1,22 @@
+### JIdentityStmt & @caughtException
+	JIdentityStmt_$r4 := @caughtexception
+
+	JIdentityStmt_$r80 := @caughtexception
+
+	JIdentityStmt_$r97 := @caughtexception
+
+### JIdentityStmt & @this
+	JIdentityStmt_r0 := @this: org.mybatis.spring.mapper.MapperFactoryBeanTest
+
+	JIdentityStmt_r0 := @this: org.mybatis.spring.sample.SampleJobXmlConfigTest$LocalContext
+
+	JIdentityStmt_r0 := @this: org.mybatis.spring.mapper.MapperScannerConfigurer
+
+### JIdentityStmt & @parameter + count
+	JIdentityStmt_r1 := @parameter0: org.mybatis.spring.sample.dao.UserDao
+
+	JIdentityStmt_r3 := @parameter2: org.springframework.dao.support.PersistenceExceptionTranslator
+
+### conclude
+	
+	var := @modifier: <class_name>
