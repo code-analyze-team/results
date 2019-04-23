@@ -1,0 +1,96 @@
+### JAssignStmt&interfaceinvoke （调用接口方法，在运行时搜索一个实现了这个接口方法的对象，找出适合的方法进行调用）
+	JAssignStmt_$r37 = interfaceinvoke r51.<java.util.Map: java.lang.Object get(java.lang.Object)>(\"FIRST_NAME\")
+	JAssignStmt_$r16 = interfaceinvoke $r15.<java.util.Iterator: java.lang.Object next()>()
+	JAssignStmt_$r3 = interfaceinvoke r1.<org.springframework.beans.factory.'annotation'.AnnotatedBeanDefinition: org.springframework.core.type.AnnotationMetadata getMetadata()>()
+	JAssignStmt_$r16 = interfaceinvoke $r15.<java.util.Iterator: java.lang.Object next()>()
+
+### JassignStmt&staticinvoke (调用类方法， 即静态方法)
+	JAssignStmt_$r12 = staticinvoke <org.mybatis.spring.SqlSessionTemplate: org.springframework.dao.support.PersistenceExceptionTranslator access$2(org.mybatis.spring.SqlSessionTemplate)>($r11)
+
+	JAssignStmt_$r6 = staticinvoke <org.mybatis.spring.SqlSessionUtils: org.apache.ibatis.session.SqlSession getSqlSession(org.apache.ibatis.session.SqlSessionFactory)>($r5)
+
+	JAssignStmt_$r34 = staticinvoke <org.assertj.core.api.Assertions: org.assertj.core.api.AbstractBooleanAssert assertThat(boolean)>($z1)
+
+### JassignStmt&virtualinvoke (调用对象的实例方法，根据对象的实际类型进行分派)
+	JAssignStmt_$r14 = virtualinvoke $r13.<java.lang.StringBuilder: java.lang.StringBuilder append(int)>(i6)
+
+	JAssignStmt_$r13 = virtualinvoke $r12.<org.apache.ibatis.session.Configuration: org.apache.ibatis.mapping.Environment getEnvironment()>()
+
+	JAssignStmt_r1 = virtualinvoke $r8.<org.mybatis.spring.batch.builder.MyBatisBatchItemWriterBuilder: org.mybatis.spring.batch.MyBatisBatchItemWriter build()>()
+
+### JassignStmt&dynamicinvoke (？)
+	JAssignStmt_$r7 = dynamicinvoke \"get\" <java.util.function.Supplier (org.mybatis.spring.SqlSessionUtils$SqlSessionSynchronization)>(r0) <java.lang.invoke.LambdaMetafactory: java.lang.invoke.CallSite metafactory(java.lang.invoke.MethodHandles$Lookup,java.lang.String,java.lang.invoke.MethodType,java.lang.invoke.MethodType,java.lang.invoke.MethodHandle,java.lang.invoke.MethodType)>(class \"()Ljava/lang/Object;\", handle: <org.mybatis.spring.SqlSessionUtils$SqlSessionSynchronization: java.lang.String lambda$6()>, class \"()Ljava/lang/String;\")
+
+	JAssignStmt_$r3 = dynamicinvoke \"get\" <java.util.function.Supplier (org.mybatis.spring.transaction.SpringManagedTransaction)>(r0) <java.lang.invoke.LambdaMetafactory: java.lang.invoke.CallSite metafactory(java.lang.invoke.MethodHandles$Lookup,java.lang.String,java.lang.invoke.MethodType,java.lang.invoke.MethodType,java.lang.invoke.MethodHandle,java.lang.invoke.MethodType)>(class \"()Ljava/lang/Object;\", handle: <org.mybatis.spring.transaction.SpringManagedTransaction: java.lang.String lambda$1()>, class \"()Ljava/lang/String;\")
+
+	JAssignStmt_$r34 = dynamicinvoke \"apply\" <java.util.function.Function ()>() <java.lang.invoke.LambdaMetafactory: java.lang.invoke.CallSite metafactory(java.lang.invoke.MethodHandles$Lookup,java.lang.String,java.lang.invoke.MethodType,java.lang.invoke.MethodType,java.lang.invoke.MethodHandle,java.lang.invoke.MethodType)>(class \"(Ljava/lang/Object;)Ljava/lang/Object;\", handle: <org.springframework.util.ClassUtils: java.lang.String getPackageName(java.lang.Class)>, class \"(Ljava/lang/Class;)Ljava/lang/String;\")
+
+### JassignStmt&specialinvoke (调用一些需要特殊处理的实例方法，包括实例初始化方法、私有方法和父类方法)
+	JAssignStmt_$r10 = specialinvoke r0.<org.mybatis.spring.batch.builder.MyBatisCursorItemReaderBuilderTest: java.util.List getFoos()>()
+
+	JAssignStmt_r1 = specialinvoke r0.<org.mybatis.spring.config.NamespaceTest: org.springframework.context.support.GenericApplicationContext setupSqlSessionFactory()>()
+
+	JAssignStmt_$r3 = specialinvoke r0.<org.mybatis.spring.config.NamespaceTest: org.springframework.context.support.GenericApplicationContext setupSqlSessionFactory()>()
+
+	JAssignStmt_r2 = specialinvoke r0.<org.springframework.context.'annotation'.ClassPathBeanDefinitionScanner: java.util.Set doScan(java.lang.String[])>(r1)
+
+	JAssignStmt_$r24 = specialinvoke r0.<org.mybatis.spring.batch.builder.MyBatisPagingItemReaderBuilderTest: java.util.List getFoos()>()
+
+### JassignStmt & variable - value assign
+	JAssignStmt_$r26 = <org.mybatis.spring.MyBatisSpringTest: org.springframework.jdbc.datasource.DataSourceTransactionManager txManager>
+
+	JAssignStmt_$r1 = r0.<org.mybatis.spring.batch.MyBatisCursorItemReader: java.util.Iterator cursorIterator>
+
+	JAssignStmt_$r15 = r0.<org.mybatis.spring.mapper.MapperFactoryBean: org.apache.commons.logging.Log logger>
+
+	JAssignStmt_i4 = lengthof $r54
+
+### JassignStmt & object - variable assign
+	JAssignStmt_r0.<org.mybatis.spring.batch.MyBatisCursorItemReader: java.util.Map parameterValues> = r1
+
+### JassignStmt & variable - variable assign
+	JAssignStmt_$r3[0] = $r4
+
+	JAssignStmt_$i4 = $i2 * $i3
+
+### JassignStmt & new object
+	JAssignStmt_$r7 = new org.springframework.transaction.support.DefaultTransactionDefinition
+
+	JAssignStmt_$r2 = new org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate
+
+	JAssignStmt_$r14 = new org.springframework.transaction.support.DefaultTransactionDefinition
+
+
+### JassignStmt & new array
+	JAssignStmt_$r1 = newarray (java.lang.Class)[1]
+
+### JassignStmt & type cast
+	JAssignStmt_$r13 = (org.assertj.core.api.ObjectAssert) $r12
+
+	JAssignStmt_$r42 = (org.mybatis.spring.mapper.MapperFactoryBean) $r41
+
+### Jassignstmt & instanceof 
+	JAssignStmt_$z2 = $r2 instanceof java.sql.SQLException
+
+	JAssignStmt_$z1 = r1 instanceof org.springframework.context.event.ContextRefreshedEvent
+
+	JAssignStmt_$z1 = $r9 instanceof org.mybatis.spring.transaction.SpringManagedTransactionFactory
+
+### Jassignstmt & string value
+	JAssignStmt_$r8 = \" \"
+
+### Jassignstmt & class
+	JAssignStmt_$r1[0] = class \"Lorg/mybatis/spring/annotation/MapperScanTest$AppConfigWithMarkerInterfaceAndAnnotation;\"
+
+	JAssignStmt_$r106 = class \"Ljava/lang/Object;\"
+
+
+
+
+### issues
+	r1 / $r1 ?
+
+### conclude
+	full method name: <class/inteface: returnType signature>feed
+	full method name with anonymous inner class: <class/inteface: returnType inner_class$count(param)>feed
+
