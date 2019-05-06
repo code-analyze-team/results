@@ -1,0 +1,257 @@
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosClient.java#login(String, String)	0
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosAuthentication.java#getJaasSubjectHolder()	0
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosTicketValidator.java#validateTicket(byte[])	1
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/AuthProviderConfigTest.java#configLoads()	1
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosAuthenticationProvider.java#setUserDetailsService(UserDetailsService)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/ldap/KerberosLdapContextSource.java#setLoginConfig(Configuration)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosTicketValidation.java#getDelegationCredential()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosAuthenticationProvider.java#setKerberosClient(KerberosClient)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/Application.java#main(String[])	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#setHoldOnToGSSContext(boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/KerberosSecurityTestcase.java#getKdc()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/KerberosSecurityTestcase.java#getWorkDir()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/config/SunJaasKrb5LoginConfig.java#setKeyTabLocation(Resource)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/Application.java#main(String[])	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/JaasSubjectHolder.java#addToken(String, byte[])	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosTicketValidation.java#subject()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#getKrb5conf()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#createConf()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/KerberosSecurityTestcase.java#getConf()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/GlobalSunJaasKerberosConfig.java#setDebug(boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/KerberosSecurityTestcase.java#createMiniKdcConf()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/ResponseHeaderSettingKerberosAuthenticationSuccessHandler.java#setHeaderPrefix(String)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosTicketValidation.java#username()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/config/SunJaasKrb5LoginConfig.java#setUseTicketCache(Boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/JaasSubjectHolder.java#getToken(String)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#getToken()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#setDebug(boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosTicketValidation.java#responseToken()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth-xml/src/main/java/demo/app/Application.java#main(String[])	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoAuthenticationProcessingFilter.java#setSuccessHandler(AuthenticationSuccessHandler)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosClient.java#setDebug(boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/GlobalSunJaasKerberosConfig.java#setKrbConfLocation(String)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#setMultiTier(boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-client-rest-template/src/main/java/demo/app/Application.java#main(String[])	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosTicketValidation.java#getGssContext()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/test/java/org/springframework/security/kerberos/test/TestMiniKdc.java#createClientConfig(String, File)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/test/java/org/springframework/security/kerberos/test/TestMiniKdc.java#createServerConfig(String, File)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#getHost()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoAuthenticationProcessingFilter.java#setFailureHandler(AuthenticationFailureHandler)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#decrypt(byte[])	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoAuthenticationProcessingFilter.java#setSkipIfAlreadyAuthenticated(boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/KerberosSecurityTestcase.java#createTestDir()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#getTicketValidation()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#setKeyTabLocation(Resource)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProvider.java#additionalAuthenticationChecks(UserDetails, KerberosServiceRequestToken)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#encrypt(byte[])	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#setServicePrincipal(String)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#setRefreshKrb5Config(boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth-xml/src/test/java/demo/app/ApplicationTest.java#configurationLoads()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/config/SunJaasKrb5LoginConfig.java#setServicePrincipal(String)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/config/SunJaasKrb5LoginConfig.java#setDebug(Boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProvider.java#setUserDetailsService(UserDetailsService)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProvider.java#setTicketValidator(KerberosTicketValidator)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#setRealmName(String)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosClient.java#setMultiTier(boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-client-auth/src/main/java/demo/app/Application.java#main(String[])	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#getPort()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoAuthenticationProcessingFilter.java#setSessionAuthenticationStrategy(SessionAuthenticationStrategy)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/ResponseHeaderSettingKerberosAuthenticationSuccessHandler.java#setHeaderName(String)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/JaasSubjectHolder.java#getJaasSubject()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#handleError(ClientHttpResponse)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/JaasSubjectHolder.java#getUsername()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#hasResponseToken()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#getRealm()	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoAuthenticationProcessingFilter.java#setAuthenticationManager(AuthenticationManager)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/config/SunJaasKrb5LoginConfig.java#setIsInitiator(Boolean)	2
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProvider.java#supports(Class)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosUsernamePasswordAuthenticationToken.java#getJaasSubjectHolder()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#portListener()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSuccessHandler.java#spnegoEntryPoint()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#spnegoEntryPoint()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-client-auth/src/main/java/demo/app/WebSecurityConfig.java#dummyUserDetailsService()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/GlobalSunJaasKerberosConfig.java#postProcessBeforeInitialization(Object, String)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testEverythingWorks()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSpnegoForward.java#spnegoEntryPoint()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfig.java#dummyUserDetailsService()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/src/main/java/demo/DummyUserDetailsService.java#loadUserByUsername(String)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#after()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/AuthProviderConfig.java#dummyUserDetailsService()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#run()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#getUserPrincipal()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSuccessHandler.java#dummyUserDetailsService()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoEntryPointTest.java#testEntryPointForwardAbsolute()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSuccessHandler.java#loadUserByUsername(String)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/GlobalSunJaasKerberosConfig.java#postProcessAfterInitialization(Object, String)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/WebSecurityConfig.java#spnegoEntryPoint()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/SpnegoConfig.java#dummyUserDetailsService()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSpnegoForward.java#dummyUserDetailsService()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfig.java#configure(AuthenticationManagerBuilder)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testEverythingWorks_Kerberos()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#getJaasSubjectHolder()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#activeDirectoryLdapAuthenticationProvider()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfig.java#loadUserByUsername(String)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/test/java/org/springframework/security/kerberos/test/TestMiniKdc.java#getKrb5LoginModuleName()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testEverythingWorksWithHandlers_Kerberos()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/WebSecurityConfig.java#dummyUserDetailsService()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosAuthenticationProvider.java#supports(Class)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSpnegoForward.java#configure(AuthenticationManagerBuilder)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/SpnegoConfig.java#spnegoEntryPoint()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#doExecuteSubject(URI, HttpMethod, RequestCallback, ResponseExtractor)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#run()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfig.java#spnegoEntryPoint()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSuccessHandler.java#configure(AuthenticationManagerBuilder)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#getPrincipal()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSpnegoForward.java#loadUserByUsername(String)	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testEverythingWorksWithHandlers()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#run()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#getPassword()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#getCredentials()	3
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testAuthenticationFails()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProvider.java#afterPropertiesSet()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoAuthenticationProcessingFilter.java#afterPropertiesSet()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#testUserIsDisabled()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-client-auth/src/main/java/demo/app/WebSecurityConfig.java#configure(AuthenticationManagerBuilder)	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#testUserAccountLockedCredentialsExpired()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/AuthProviderConfig.java#configure(AuthenticationManagerBuilder)	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#onApplicationEvent(EmbeddedServletContainerInitializedEvent)	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoAuthenticationProcessingFilter.java#setAuthenticationDetailsSource(AuthenticationDetailsSource)	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#authenticationManagerBean()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#testUserCredentialsExpired()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#home()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#testUserAccountIsExpired()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/test/java/org/springframework/security/kerberos/test/TestMiniKdc.java#testMiniKdcStart()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/docs/KerberosRestTemplateConfig.java#doWithKeytabFile()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/docs/KerberosRestTemplateConfig.java#doWithTicketCache()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#login()	4
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#kerberosLdapContextSource()	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#tomcatEmbeddedServletContainerFactory()	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosMultiTier.java#getTokenForService(Authentication, String)	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/TestMultiTierAuthentication.java#loadUserByUsername(String)	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#createHandler()	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/KerberosSecurityTestcase.java#stopMiniKdc()	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/WebSecurityConfig.java#configure(AuthenticationManagerBuilder)	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#configure(AuthenticationManagerBuilder)	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/DummyUserDetailsService.java#loadUserByUsername(String)	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosMultiTier.java#run()	5
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfig.java#spnegoAuthenticationProcessingFilter(AuthenticationManager)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#spnegoAuthenticationProcessingFilter(AuthenticationManager)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#everythingWorksWithHandlers(String)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-client-auth/src/main/java/demo/app/MvcConfig.java#addViewControllers(ViewControllerRegistry)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/SpnegoConfig.java#configure(AuthenticationManagerBuilder)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#start()	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSpnegoForward.java#spnegoAuthenticationProcessingFilter(AuthenticationManager)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/WebSecurityConfig.java#spnegoAuthenticationProcessingFilter(AuthenticationManager)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfig.java#kerberosServiceAuthenticationProvider()	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/MvcConfig.java#addViewControllers(ViewControllerRegistry)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/MvcConfig.java#addViewControllers(ViewControllerRegistry)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#hashCode()	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth-xml/src/main/java/demo/app/MvcConfig.java#addViewControllers(ViewControllerRegistry)	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSuccessHandler.java#kerberosServiceAuthenticationProvider()	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSpnegoForward.java#kerberosServiceAuthenticationProvider()	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#kerberosServiceAuthenticationProvider()	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#close()	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/WebSecurityConfig.java#kerberosServiceAuthenticationProvider()	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-client-rest-template/src/main/java/demo/app/Application.java#run(String[])	6
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/docs/KerberosLdapContextSourceConfig.java#ldapUserDetailsService()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSuccessHandler.java#sunJaasKerberosTicketValidator()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#encrypt(byte[], int, int)	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#testEverythingWorks()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#decrypt(byte[], int, int)	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/JaasUtil.java#copySubject(Subject)	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/SpnegoConfig.java#kerberosServiceAuthenticationProvider()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#testTicketValidationWrong()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosMultiTier.java#createOid(String)	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/KerberosSecurityTestcase.java#startMiniKdc()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSpnegoForward.java#sunJaasKerberosTicketValidator()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#testAuthenticationDetailsPropagation()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfig.java#sunJaasKerberosTicketValidator()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/WebSecurityConfig.java#sunJaasKerberosTicketValidator()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#sunJaasKerberosTicketValidator()	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/ResponseHeaderSettingKerberosAuthenticationSuccessHandler.java#onAuthenticationSuccess(HttpServletRequest, HttpServletResponse, Authentication)	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/SpnegoConfig.java#spnegoAuthenticationProcessingFilter(AuthenticationManager)	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#callProviderAndReturnUser(UserDetails, Authentication)	7
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#testUsernameNotFound()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/SpnegoConfig.java#sunJaasKerberosTicketValidator()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testAuthenticationFailsWithHandlers()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/WebSecurityConfig.java#kerberosAuthenticationProvider()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#loginConfig()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-client-auth/src/main/java/demo/app/WebSecurityConfig.java#kerberosAuthenticationProvider()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/ldap/KerberosLdapContextSource.java#run()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidatorTests.java#testJdkMsKrb5OIDRegressionTweak()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#buildLoginContext()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProviderTest.java#before()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosAuthenticationProviderTest.java#before()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#ldapUserDetailsService()	8
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testNoHeader()	9
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/SpnegoConfig.java#kerberosAuthenticationProvider()	9
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoEntryPointTest.java#testEntryPointOk()	9
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/GlobalSunJaasKerberosConfig.java#afterPropertiesSet()	9
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/AuthProviderConfig.java#kerberosAuthenticationProvider()	9
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/TestMultiTierAuthentication.java#userDetailsService()	9
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#getEncodedResponseToken()	9
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#buildHttpClient()	10
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosAuthenticationProvider.java#authenticate(Authentication)	10
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#authenticationFails()	10
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoEntryPointTest.java#testEntryPointOkWithDispatcher()	10
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosClient.java#getAppConfigurationEntry(String)	10
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSuccessHandler.java#spnegoAuthenticationProcessingFilter(AuthenticationManager)	10
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/docs/KerberosLdapContextSourceConfig.java#kerberosLdapContextSource()	10
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testAlreadyAuthenticatedWithAnonymousToken()	11
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSpnegoForward.java#configure(HttpSecurity)	11
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfig.java#configure(HttpSecurity)	11
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#before()	11
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/WebSecurityConfigSuccessHandler.java#configure(HttpSecurity)	11
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testNTLMSSPHeader()	11
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#stop()	12
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/AuthProviderConfig.java#configure(HttpSecurity)	12
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testAlreadyAuthenticatedNotActive()	12
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/ldap/KerberosLdapContextSource.java#afterPropertiesSet()	12
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#everythingWorks(String)	12
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-client-auth/src/main/java/demo/app/WebSecurityConfig.java#configure(HttpSecurity)	12
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testAlreadyAuthenticatedWithNotAuthenticatedToken()	12
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceRequestToken.java#equals(Object)	12
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#delete(File)	13
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoAuthenticationProcessingFilterTest.java#testAlreadyAuthenticated()	13
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#createPrincipal(String, String)	13
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/web/SpnegoEntryPointTest.java#testEntryPointForwardOk()	13
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/TestMultiTierAuthentication.java#createUserPassAuthenticator(boolean)	13
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/ldap/KerberosLdapContextSource.java#login()	13
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#createKeyabFile(File, String, String)	14
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosTicketValidationTest.java#createResultOfTicketValidationWithSubject()	14
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosClient.java#handle(Callback[])	14
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosTicketValidationTest.java#createResultOfTicketValidationWithSubjectAndDelegation()	15
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoEntryPoint.java#commence(HttpServletRequest, HttpServletResponse, AuthenticationException)	15
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/config/SunJaasKrb5LoginConfig.java#afterPropertiesSet()	15
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/test/java/org/springframework/security/kerberos/authentication/KerberosAuthenticationProviderTest.java#testLoginOk()	15
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#handle(Callback[])	16
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosServiceAuthenticationProvider.java#authenticate(Authentication)	16
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#validateTicket(byte[])	17
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/ActiveDirectoryLdapAuthoritiesPopulator.java#getGrantedAuthorities(DirContextOperations, String)	17
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#createPrincipal(File, String[])	17
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/test/java/org/springframework/security/kerberos/test/TestMiniKdc.java#testKeytabGen()	18
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-win-auth/src/main/java/demo/app/WebSecurityConfig.java#configure(HttpSecurity)	19
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosMultiTier.java#authenticateService(Authentication, String, int, String)	19
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#doExecute(URI, HttpMethod, RequestCallback, ResponseExtractor)	19
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/test/java/org/springframework/security/kerberos/docs/SpnegoConfig.java#configure(HttpSecurity)	19
+D:\tmp\spring-security-kerberos/spring-security-kerberos-samples/sec-server-spnego-form-auth/src/main/java/demo/app/WebSecurityConfig.java#configure(HttpSecurity)	19
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/TestMultiTierAuthentication.java#createServiceAuthenticator(boolean, String, String, String)	20
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/test/java/org/springframework/security/kerberos/test/TestMiniKdc.java#getAppConfigurationEntry(String)	20
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/config/SunJaasKrb5LoginConfig.java#getAppConfigurationEntry(String)	24
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#getAppConfigurationEntry(String)	26
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/ldap/KerberosLdapContextSource.java#getDirContextInstance(Hashtable)	27
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#afterPropertiesSet()	27
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosTicketValidator.java#run()	28
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/main/java/org/springframework/security/kerberos/client/KerberosRestTemplate.java#getAppConfigurationEntry(String)	28
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#testSpnego()	29
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#testSpnegoWithSuccessHandler()	29
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/sun/SunJaasKerberosClient.java#login(String, String)	29
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#testSpnegoWithPassword()	29
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/KerberosRestTemplateTests.java#testSpnegoWithForward()	34
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/test/java/org/springframework/security/kerberos/test/TestMiniKdc.java#testKerberosLogin()	40
+D:\tmp\spring-security-kerberos/spring-security-kerberos-core/src/main/java/org/springframework/security/kerberos/authentication/KerberosMultiTier.java#runAuthentication(JaasSubjectHolder, String, int, String)	44
+D:\tmp\spring-security-kerberos/spring-security-kerberos-web/src/main/java/org/springframework/security/kerberos/web/authentication/SpnegoAuthenticationProcessingFilter.java#doFilter(ServletRequest, ServletResponse, FilterChain)	51
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#main(String[])	57
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#initDirectoryService()	63
+D:\tmp\spring-security-kerberos/spring-security-kerberos-client/src/test/java/org/springframework/security/kerberos/client/TestMultiTierAuthentication.java#testServer()	82
+D:\tmp\spring-security-kerberos/spring-security-kerberos-test/src/main/java/org/springframework/security/kerberos/test/MiniKdc.java#initKDCServer()	87

@@ -1,0 +1,1022 @@
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/ServiceConnectorCreator.java#create(SI, ServiceConnectorConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/ServiceInfoCreator.java#accept(SD)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#dataSource(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudConnector.java#getApplicationInstanceInfo()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfoCreator.java#createServiceInfo(String, String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceCreatorTest.java#createServiceInfo()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactoryTest.java#createTestCloudServiceConnectorFactory(String, ServiceConnectorConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#getDriverClassName()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/ServiceConnectorCreator.java#getServiceInfoType()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#service(String, Class)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactoryTest.java#getMockConnector()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/app/ApplicationInstanceInfo.java#getProperties()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#getValidationQuery()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/HerokuServiceInfoCreator.java#getEnvPrefixes()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#service(String, Class, ServiceConnectorConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/RelationalServiceInfoCreator.java#createServiceInfo(String, String, String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/CompositeServiceInfo.java#getServiceInfos()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#getValidationQuery()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#service(Class)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfoFactory.java#createUri(String, String, int, String, String, String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/ServiceConnectorConfigurer.java#configure(SC, SCC)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/CloudServiceConnectorFactory.java#getServiceId()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#getConnection(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#service(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#cluster(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#createService(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/AbstractServiceXmlConfigTest.java#getWithServiceIdContextFileName()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/ServiceInfoCreator.java#createServiceInfo(SD)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/ServiceDataPostProcessor.java#process(CloudFoundryRawServiceData)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#rabbitConnectionFactory()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#dataSource(String, DataSourceConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#cluster()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/AbstractCloudConnector.java#getServicesData()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfoFactory.java#createUri(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#getDriverClassName()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#dataSource()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/AbstractCloudConnector.java#getFallbackServiceInfoCreator()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#rabbitConnectionFactory(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#getTestApplicationContextWithServiceId(ServiceInfo[])	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#mongoDbFactory(MongoDbFactoryConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/ServiceInfo.java#getId()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactoryTest.java#getTestServiceInfo(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceCreatorTest.java#getCreator()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactoryTest.java#getConnectorType()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#redisConnectionFactory(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceScanTest.java#getTestApplicationContext(ServiceInfo[])	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#createService(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#cluster(String, CassandraClusterConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/app/ApplicationInstanceInfo.java#getInstanceId()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceCreatorTest.java#getDriverName()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#dataSource(DataSourceConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/AbstractServiceXmlConfigTest.java#getWithoutServiceIdContextFileName()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigPropertiesTest.java#getPropertiesTestApplicationContext(ServiceInfo[])	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#mongoDbFactory(String, MongoDbFactoryConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudConnector.java#isInMatchingCloud()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#redisConnectionFactory()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#getConnectorType()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/app/ApplicationInstanceInfo.java#getAppId()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/ServiceConnectorCreator.java#getServiceConnectorType()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#service()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/CloudServiceConnectorFactory.java#createService()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#cluster(CassandraClusterConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#mongoDbFactory(String)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudConnector.java#getServiceInfos()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#redisConnectionFactory(PooledServiceConnectorConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceCreatorTest.java#getValidationQueryStart()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#rabbitConnectionFactory(RabbitConnectionFactoryConfig)	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#getTestApplicationContextWithoutServiceId(ServiceInfo[])	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#mongoDbFactory()	0
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/PooledDataSourceCreator.java#create(RelationalServiceInfo, ServiceConnectorConfig, String, String)	1
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#redisConnectionFactory(String, PooledServiceConnectorConfig)	1
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceConnectionFactory.java#rabbitConnectionFactory(String, RabbitConnectionFactoryConfig)	1
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#getWithoutServiceIdContextFileName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/PropertiesJavaConfigTest.java#getPropertiesTestApplicationContext(ServiceInfo[])	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RedisConnectionFactoryXmlConfigTest.java#getWithServiceIdContextFileName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#getWithoutServiceIdContextFileName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setLoadBalancingPolicy(LoadBalancingPolicy)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#basicDbcpConnectionPool()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getScheme()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getPoolConfig()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/AbstractServiceJavaConfigTest.java#getWithoutServiceIdContextClassName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/EnvironmentAccessor.java#getEnv()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#createMongoServiceWithMultipleHostsByUri(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#getTag()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/CloudScanJavaConfigTest.java#getTestApplicationContext(ServiceInfo[])	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorOracleServiceTest.java#getJdbcUrl(String, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/CassandraClusterFactoryJavaConfigTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PassthroughEnvironmentAccessor.java#setSystemProperty(String, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#isJmxReportingEnabled()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudFactory.java#getServiceCreators()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getPoolingOptions()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getSocketOptions()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceCreator.java#putPooledDataSourceCreator(PooledDataSourceCreator)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceFactoryTest.java#createTestCloudServiceConnectorFactory(String, ServiceConnectorConfig)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/smtp/MailSenderFactoryTest.java#getMockConnector()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PostgresqlDataSourceFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/EnvironmentAccessor.java#getSystemProperty(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setJmxReportingEnabled(boolean)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/SpringData1RedisConnectionFactoryFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/document/MongoDbFactoryConfig.java#getMaxWaitTime()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#createService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getNettyOptions()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudFactory.java#getCloudConnectors()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#quote(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setRetryPolicy(RetryPolicy)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/AbstractServiceXmlConfigTest.java#getTestApplicationContextWithoutServiceId(ServiceInfo[])	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#pooledDataSourceUnableToConnectToAnyUrl()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/document/MongoDbFactoryConfig.java#getWriteConcern()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/AbstractServiceConnectorCreator.java#getServiceConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlDataSourceFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/AbstractCloudConnector.java#registerServiceInfoCreator(ServiceInfoCreator)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/SqlServerDataSourceFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getQueryOptions()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceFactoryTest.java#getMockConnector()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getUriString()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/AbstractCloudConfig.java#properties()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSqlServerServiceTest.java#getJdbcUrl(String, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/column/CassandraClusterFactoryTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#pooledDataSourceRequiringEncodedUrl()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/EnvironmentAccessor.java#getSystemProperties()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#addServiceInfo(ServiceInfo)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getUserName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/SpringData1RedisConnectionFactoryFactoryTest.java#createTestCloudServiceConnectorFactory(String, ServiceConnectorConfig)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryFactoryTest.java#getMockConnector()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getQuery()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/messaging/RabbitConnectionFactoryConfig.java#getChannelCacheSize()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#setUrl(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#createCassandraService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#logSystemReadException(String, SecurityException)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/column/CassandraClusterFactoryTest.java#getMockConnector()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getLoadBalancingPolicy()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getApplicationInstanceInfo()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/mongo/MongoDbFactoryFactoryTest.java#createTestCloudServiceConnectorFactory(String, ServiceConnectorConfig)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/StubbedOpenFileLocalConfigConnector.java#fileContentsFromString(String, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getMinimumIdle()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getMaximumPoolSize()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#getId()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisConnectionFactoryFactoryTest.java#getMockConnector()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/AbstractServiceConnectorCreator.java#getServiceInfoType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#fileExists(File)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/GenericServiceJavaConfigTest.java#createService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getMaxTotal()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryFactoryTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#registerCreator(ServiceConnectorCreator)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/smtp/SmtpServiceConnectorCreatorTest.java#createServiceInfo()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#canCreate(Class, SI)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getPort()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getReconnectionPolicy()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setNettyOptions(NettyOptions)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#createRedisService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#dataSourceRequiringDecodedUrl(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/document/MongoDbFactoryConfig.java#getConnectionsPerHost()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getUriInfo()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/DataSourceCloudConfigTestHelper.java#assertDataSourceType(DataSource, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getInitialSize()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorOracleServiceTest.java#getJdbcUrl(String, int, String, String, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigMysqlTest.java#createService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#assertMongoProps(String, MongoServiceInfo, Properties)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/CassandraClusterFactoryJavaConfigTest.java#createService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/EnvironmentAccessor.java#getSystemProperty(String, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceData.java#getUri()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#getWithServiceIdContextFileName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#getConstituents()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceConfig.java#getConnectionConfiguration()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#pooledDataSourceRequiringDecodedUrl()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getRetryPolicy()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#onlyConnectToDecodedUrls(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#createService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisConnectionFactoryConfig.java#getConnectionProperties()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisConnectionFactoryFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/smtp/MailSenderFactoryTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getProtocolVersion()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setCompression(Compression)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/SpringData1RedisConnectionFactoryFactoryTest.java#getMockConnector()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/mongo/MongoDbFactoryFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#createMysqlDataSource(ServiceConnectorConfig)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#setApplicationInstance(ApplicationInstanceInfo)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#getPropertiesValue(Object, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/PropertiesXmlConfigTest.java#getPropertiesTestApplicationContext(ServiceInfo[])	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#getUriSchemes()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#createService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#isMetricsEnabled()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#getCompression()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getMaxWaitMillis()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getUriInfoFactory()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#registerServiceConnectorCreator(ServiceConnectorCreator)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceData.java#getKey()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/smtp/MailSenderFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PassthroughEnvironmentAccessor.java#clear()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#onlyConnectToEncodedUrls(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#createMongoService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/DB2DataSourceFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnector.java#setCloudEnvironment(EnvironmentAccessor)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/AbstractCloudConfig.java#cloudFactory()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceFactoryTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnector.java#scanServiceDataPostProcessors()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getSchemeSpecificPart()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#getIntValue(Object, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisConnectionFactoryFactoryTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#dataSourceUnableToConnectToAnyUrl(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getHost()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setPoolingOptions(PoolingOptions)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#setEnvironmentAccessor(EnvironmentAccessor)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/SpringData1RedisConnectionFactoryFactoryTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisConnectionFactoryCreator.java#connectionIsSecure(RedisServiceInfo)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/AbstractCloudConfig.java#connectionFactory()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/StubbedOpenFileLocalConfigConnector.java#setFileProvider(InputStreamProvider)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/GenericServiceXmlConfigTest.java#createService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/Tags.java#startsWithIgnoreCase(String, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#validateAndCleanUriInfo(UriInfo)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryFactoryTest.java#createTestCloudServiceConnectorFactory(String, ServiceConnectorConfig)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getPassword()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RedisConnectionFactoryXmlConfigTest.java#createService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#createRabbitService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreatorTests.java#readServiceData(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RedisConnectionFactoryXmlConfigTest.java#getWithoutServiceIdContextFileName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getMaxWait()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#getWithServiceIdContextFileName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/smtp/MailSenderFactoryTest.java#createTestCloudServiceConnectorFactory(String, ServiceConnectorConfig)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/EnvironmentAccessor.java#getEnvValue(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactory.java#getServiceId()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudFactory.java#registerServiceCreator(ServiceConnectorCreator)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setReconnectionPolicy(ReconnectionPolicy)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getMinIdle()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#getDefaultUriScheme()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/mongo/MongoDbFactoryFactoryTest.java#getMockConnector()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/mongo/MongoDbFactoryFactoryTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#neverConnect(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#createMysqlService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#getStringValue(Object, String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getPath()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setSocketOptions(SocketOptions)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/GenericServiceJavaConfigTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/Tags.java#getTags()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/CloudServiceScanJavaConfigTest.java#getTestApplicationContext(ServiceInfo[])	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#assertRabbitProps(String, AmqpServiceInfo, Properties)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#openFile(File)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#getId(Map)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CloudServiceScanXmlConfigTest.java#getTestApplicationContext(ServiceInfo[])	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisConnectionFactoryFactoryTest.java#createTestCloudServiceConnectorFactory(String, ServiceConnectorConfig)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setQueryOptions(QueryOptions)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#createPostgresqlService(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/OracleDataSourceFactoryTest.java#getTestServiceInfo(String)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#getMaxActive()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceInfos()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/AbstractCloudServiceFactoryParser.java#setServiceConnectorType(Class)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactory.java#setCloud(Cloud)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudFactory.java#registerCloudConnector(CloudConnector)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceConfig.java#getConnectionProperties()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/MapServiceConnectorConfig.java#getConnectionProperties()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setProtocolVersion(ProtocolVersion)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/AbstractServiceJavaConfigTest.java#getWithServiceIdContextClassName()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterConfig.java#setMetricsEnabled(boolean)	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/AbstractServiceXmlConfigTest.java#getTestApplicationContextWithServiceId(ServiceInfo[])	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RedisConnectionFactoryXmlConfigTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#getUrl()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#getConnectorType()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceConfig.java#getPooledDataSourceNames()	2
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#getApplicationInstanceInfo()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/AbstractServiceJavaConfigTest.java#getTestApplicationContextWithServiceId(ServiceInfo[])	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/TestServiceInfoCreator.java#accept(TestServiceData)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/AmqpServiceInfo.java#getManagementUri()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/StandardUriInfoFactory.java#createUri(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/GenericServiceXmlConfigTest.java#getConnectorType()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#assertAcceptedWithCredentials(DummyServiceInfoCreator, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/SqlServerServiceCreatorTest.java#getDriverName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#rabbitConnectionFactory(RabbitConnectionFactoryConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/AbstractCloudServiceFactoryParser.java#getBeanClass(Element)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigMysqlTest.java#getDriverClassName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/CassandraServiceInfo.java#getPassword()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CloudAllServicesTest.java#noServices()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#dataSource(String, DataSourceConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#isInMatchingCloud()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/StandardUriInfoFactory.java#createUri(String, String, int, String, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/PostgresqlServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnector.java#getFallbackServiceInfoCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/AbstractCloudConfig.java#cloud()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#getId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#accept(Map)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/CassandraServiceInfo.java#getPort()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/CassandraServiceInfo.java#getContactPoints()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/PropertiesFileResolver.java#lookup(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/FallbackServiceInfoCreator.java#accept(SD)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#assertServiceFoundOfType(List, String, Class)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorDB2ServiceTest.java#getJdbcUrl(String, String, int, String, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#noPool()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/TagsTest.java#startsWithWithEmptyTags()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/RelationalServiceInfo.java#buildJdbcUrl()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/CloudScanHelper.java#getObject()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/CassandraClusterFactoryJavaConfigTest.java#testClusterFactory()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#dataSourceWithNoConfig()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigPostgresqlTest.java#getValidationQuery()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#withLabel(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/GenericServiceXmlConfigTest.java#getWithServiceIdContextFileName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSqlServerServiceTest.java#getJdbcUrl(String, int, String, String, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/DB2ServiceCreatorTest.java#getCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/MongoServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/AmqpServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#getConnection()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/MonitoringServiceInfoCreator.java#accept(Map)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/OracleServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/OracleServiceCreatorTest.java#getDriverName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PostgresqlServiceCreatorTest.java#getCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#cluster(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RabbitConnectionFactoryXmlConfigTest.java#createService(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/AmqpServiceInfo.java#getUris()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getPort()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/OracleServiceInfoCreator.java#createServiceInfo(String, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getProperties()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudNamespaceHandler.java#getBeanClass(Element)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#createServiceInfo(Map)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/SqlServerServiceCreatorTest.java#getCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/app/BasicApplicationInstanceInfo.java#getInstanceId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigPostgresqlTest.java#createService(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/MysqlServiceInfoCreator.java#createServiceInfo(String, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/AbstractServiceJavaConfigTest.java#getTestApplicationContextWithoutServiceId(ServiceInfo[])	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#mongoDbFactory(String, MongoDbFactoryConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreatorTests.java#getServiceData(Map, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testNowhere()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/app/BasicApplicationInstanceInfo.java#getAppId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#createServiceInfo(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#assertNotAcceptedWithTags(DummyServiceInfoCreator, String[])	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigPostgresqlTest.java#getDriverClassName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/PostgresqlServiceInfoCreator.java#createServiceInfo(String, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigMysqlTest.java#getDriverClassName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactoryTest.java#setup()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/PostgresqlServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getSchemeSpecificPart()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorTest.java#testNoAppIdAnywhere()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#testRabbitConnectionFactory()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigMysqlTest.java#getValidationQuery()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#service()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorRelationalServiceTest.java#assertJdbcUrlEqual(ServiceInfo, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PassthroughEnvironmentAccessor.java#getSystemProperty(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/RelationalServiceInfoCreator.java#accept(Map)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testMissingSystemProperty()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getUri()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/PropertiesJavaConfigTest.java#cloudProperties()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getScheme()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/AmqpServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/RedisServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreator.java#accept(Map)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/MongoServiceInfo.java#getDatabase()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#service(String, Class, ServiceConnectorConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#jdbcUrlNoPassword()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#createServiceInfoWithJdbcUrl(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getAppId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/GenericCloudServiceConnectorFactoryTest.java#setup()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudNamespaceHandler.java#postProcessBeanFactory(ConfigurableListableBeanFactory)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getServiceInfos()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PassthroughEnvironmentAccessor.java#getSystemProperties()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/DB2ServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/FallbackBaseServiceInfoCreator.java#createServiceInfo(UriBasedServiceData)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/RedisServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/AmqpServiceInfo.java#getVirtualHost()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#getFallbackServiceInfoCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#assertAcceptedWithTags(DummyServiceInfoCreator, String[])	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/PostgresqlServiceInfoCreator.java#getEnvPrefixes()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#badVirtualHost()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#service(String, Class)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#assertRelationalProps(String, RelationalServiceInfo, Properties)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigMysqlTest.java#createService(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/SqlServerServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/OracleServiceCreatorTest.java#getCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlServiceCreatorTest.java#setup()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlServiceCreatorTest.java#getCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#createServiceInfo(TestServiceData)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RabbitConnectionFactoryXmlConfigTest.java#getWithoutServiceIdContextFileName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#dataSource()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/AbstractCloudServiceFactoryParser.java#shouldGenerateId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/HerokuConnector.java#getFallbackServiceInfoCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#assertNotAcceptedWithLabel(DummyServiceInfoCreator, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigMysqlTest.java#getValidationQuery()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#cluster(String, CassandraClusterConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#testDatasource()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigPostgesqlTest.java#getDriverClassName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PostgresqlServiceCreatorTest.java#getValidationQueryStart()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getApplicationInstanceInfo()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/DB2ServiceCreatorTest.java#getDriverName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#dataSource(DataSourceConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisServiceConnectorCreatorTest.java#setup()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getFoo()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/AmqpServiceInfoCreator.java#getEnvPrefixes()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudPropertiesFactoryBean.java#isSingleton()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#labelStartsWithTag(Map)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/SqlServerServiceCreatorTest.java#getValidationQueryStart()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#badUserInfo()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#service(Class)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/CloudScanHelper.java#getObjectType()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#assertServiceFoundOfType(ServiceInfo, Class)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#getConnection(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/HerokuConnector.java#isInMatchingCloud()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlServiceCreatorWithDefaultDriverTest.java#getDriverName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/CloudScanHelper.java#isSingleton()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#getServicesData()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/GenericCloudServiceConnectorFactoryTest.java#isSingleton()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#rabbitConnectionFactory()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#setup()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CassandraClusterXmlConfigTest.java#createService(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PostgresqlServiceCreatorTest.java#setup()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudNamespaceHandler.java#shouldGenerateId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#missingUserInfo()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/GenericServiceJavaConfigTest.java#myServiceWithTypeWithServiceName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnector.java#isInMatchingCloud()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/GenericCloudServiceConnectorFactoryTest.java#getObject()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#createService(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/SqlServerServiceInfoCreator.java#createServiceInfo(String, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/OracleServiceCreatorTest.java#getValidationQueryStart()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#rabbitConnectionFactory(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorPostgresqlServiceTest.java#postgresqlServiceCreationPrimary()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#missingScheme()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/BaseCompositeServiceInfo.java#getServiceInfos()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/GenericServiceXmlConfigTest.java#getWithoutServiceIdContextFileName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlServiceCreatorTest.java#getValidationQueryStart()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/ServiceScanConfiguration.java#registerBeanDefinitions(AnnotationMetadata, BeanDefinitionRegistry)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/ServiceLoaderWithExceptionControl.java#remove()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#getFallbackServiceInfoCreator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getInstanceId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/BaseServiceInfo.java#getId()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorPostgresqlServiceTest.java#postgresqlServiceCreationSecondary()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/TestServiceInfoCreator.java#createServiceInfo(TestServiceData)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigPostgesqlTest.java#createService(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#service(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RabbitConnectionFactoryXmlConfigTest.java#getWithServiceIdContextFileName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/TagsTest.java#containsOneWithEmptyTags()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlServiceCreatorWithMysqlDriverTest.java#getDriverName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/SpringData1RedisServiceConnectorCreatorTest.java#setup()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#withCredentials(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudPropertiesFactoryBean.java#getObject()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/ServiceLoaderWithExceptionControl.java#hasNext()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#mongoDbFactory()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#withTags(String[])	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/MysqlServiceInfoCreator.java#getEnvPrefixes()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/app/BasicApplicationInstanceInfo.java#getProperties()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactory.java#createInstance()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/CassandraServiceInfo.java#getUsername()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getQuery()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/column/CassandraClusterFactoryTest.java#createTestCloudServiceConnectorFactory(String, ServiceConnectorConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#getConnectorType()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#testMongoDbFactory()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#missingHost()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#redisConnectionFactory(PooledServiceConnectorConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#isInMatchingCloud()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#testRedisConnectionFactory()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfoCreator.java#createServiceInfo(UriBasedServiceData)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/RelationalServiceInfo.java#getJdbcUrl()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/HerokuConnector.java#setCloudEnvironment(EnvironmentAccessor)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/GenericServiceJavaConfigTest.java#myServiceWithTypeWithoutServiceName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/GenericServiceJavaConfigTest.java#testService()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getPassword()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CassandraClusterXmlConfigTest.java#getConnectorType()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/DB2ServiceInfoCreator.java#createServiceInfo(String, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudPropertiesFactoryBean.java#getObjectType()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/MysqlServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#cluster()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#toString()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/MongoServiceInfoCreator.java#getEnvPrefixes()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/AmqpServiceInfo.java#getManagementUris()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#redisConnectionFactory()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/ServiceLoaderWithExceptionControl.java#iterator()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/StubbedOpenFileLocalConfigConnector.java#fileExists(File)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/RedisServiceInfoCreator.java#getEnvPrefixes()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudPropertiesFactoryBean.java#setBeanFactory(BeanFactory)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorDB2ServiceTest.java#getJdbcUrl(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigPostgesqlTest.java#getValidationQuery()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/TagsTest.java#containsWithEmptyTags()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#mongoDbFactory(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/GenericCloudServiceConnectorFactoryTest.java#getObjectType()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getUserName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/DB2ServiceCreatorTest.java#getValidationQueryStart()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlServiceCreatorWithMysqlDriverTest.java#tearDown()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#assertNotAcceptedWithCredentials(DummyServiceInfoCreator, String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getPath()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#assertAcceptedWithLabel(DummyServiceInfoCreator, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/ConnectionPropertiesParser.java#getBeanClassName(Element)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/MysqlServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/column/CassandraClusterFactoryTest.java#getTestServiceInfo(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CassandraClusterXmlConfigTest.java#getWithoutServiceIdContextFileName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/ServiceLoaderWithExceptionControl.java#load(Class)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PostgresqlServiceCreatorTest.java#getDriverName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#cluster(CassandraClusterConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/MongoServiceInfoCreator.java#createServiceInfo(String, String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#mongoDbFactory(MongoDbFactoryConfig)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#getHost()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#redisConnectionFactory(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#dataSource(String)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CassandraClusterXmlConfigTest.java#getWithServiceIdContextFileName()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#getCredentials(Map)	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RabbitConnectionFactoryXmlConfigTest.java#getConnectorType()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CloudAllServicesTest.java#partialServicesProvisioned()	3
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#getJdbcUrl(String, int, String, String, String)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#getApplicationInstanceInfo()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testFromSystem()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/document/MongoDbFactoryCreator.java#createMongoDbFactory(MongoServiceInfo, MongoClientOptions.Builder)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#connectionPerHost50_MaxWait200_WriteConcernSafe()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/SpringData1RedisLettuceConnectionFactoryConfigurer.java#configureConnection(LettuceConnectionFactory, RedisConnectionFactoryConfig)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/StubServiceConnectorCreator.java#create(StubServiceInfo, ServiceConnectorConfig)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#connectionPerHost50_MaxWait200_WriteConcernNone()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testNoClasspathFile()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisJedisClientConfigurer.java#configureClient(JedisClientConfigurationBuilder, RedisConnectionFactoryConfig)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorRedisServiceTest.java#getRedisServicePayload(String, String, int, String, String)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/mongo/MongoServiceConnectorCreatorTest.java#getMongoClientField(MongoDbFactory)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/MonitoringServiceInfoCreator.java#createServiceInfo(Map)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#connectionPerHost50_MaxWaitUnspecified_WriteConcernUnspecified()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudScanConfiguration.java#registerBeanDefinitions(AnnotationMetadata, BeanDefinitionRegistry)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#rabbitConnectionFactory(String, RabbitConnectionFactoryConfig)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#setup()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisLettuceClientConfigurer.java#configureClient(LettuceClientConfigurationBuilder, RedisConnectionFactoryConfig)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#pooledDataSourceCreationDefaultPools()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#connectionFactoryWithConfig()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testClasspathFileWithoutKey()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#servicesInfosWithNonJsonServices()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/SpringData1RedisConnectionFactoryConfigurer.java#configureConnection(JedisConnectionFactory, RedisConnectionFactoryConfig)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/StubbedOpenFileLocalConfigConnector.java#openFile(File)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/CommonPoolCloudConfigTestHelper.java#assertCommonsPoolProperties(Object, int, int, long)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/StandardUriInfoFactoryTest.java#createWithUsernameNoPassword()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlServiceCreatorWithMysqlDriverTest.java#setup()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#setup()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/AbstractHerokuConnectorTest.java#setup()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#setDefaults()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#addProperty(Properties, String, Object)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#connectionPerHostUnspecified_MaxWait200_WriteConcernUnspecified()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorPostgresqlServiceTest.java#getJdbcUrl(String, int, String, String, String)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorRedisServiceTest.java#getRedisServicePayloadNoLabelNoTags(String, String, int, String, String)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnector.java#createServiceInfo(Map)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testSystemProperty()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorRelationalServiceTest.java#assertJdbcShemeSpecificPartEqual(ServiceInfo, String, String)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceConfigurer.java#configureConnectionProperties(DataSource, DataSourceConfig)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/ConnectionPropertiesParser.java#doParse(Element, ParserContext, BeanDefinitionBuilder)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/CloudServiceConnectionFactory.java#redisConnectionFactory(String, PooledServiceConnectorConfig)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#amqpsSchemeAccepted()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#connectionPerHost50_MaxWait200_WriteConcernUnspecified()	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#tagsMatch(Map)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactory.java#setServiceConnectorType(Class)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#withPooling(ConnectionSupplier, String)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMongodbServiceTest.java#getMongoServicePayload(String, String, int, String, String, String, String)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractUserProvidedServiceInfoCreatorTest.java#getUserProvidedServicePayloadWithNoUri(String, String, int, String, String, String)	4
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMonitoringServiceTest.java#getMonitoringServicePayload(String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/DB2ServiceCreatorTest.java#createServiceInfo()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorRedisServiceTest.java#assertRedisServiceInfo(RedisServiceInfo)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/DataSourceCloudConfigTestHelper.java#assertConnectionProperty(DataSource, String, Object)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreator.java#cassandraCredentialsPresent(Map)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceConnector(ServiceInfo, Class, ServiceConnectorConfig)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithoutServiceNameSpecified_NoServiceExists_byId()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithServiceNameSpecified_NoServiceExists_byId()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisJedisClientConfigurer.java#configure(JedisClientConfigurationBuilder, PooledServiceConnectorConfig)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#getMysqlServicePayloadNoLabelNoTags(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#jdbcUrlWithQueryNoUsernamePassword()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisLettuceClientConfigurer.java#configure(LettuceClientConfigurationBuilder, PooledServiceConnectorConfig)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/MysqlServiceCreatorTest.java#createServiceInfo()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/OracleServiceCreatorTest.java#setup()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#dataSourceWithPoolConfig()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/OracleServiceCreatorTest.java#createServiceInfo()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/DB2ServiceInfo.java#buildJdbcUrl()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/CloudScanJavaConfigTest.java#cloudScanIntroducesApplicationInstanceInfo()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorOracleServiceTest.java#getOracleServicePayloadWithJdbcurl(String, String, int, String, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#assertStubServiceProp(String, StubServiceInfo, Properties)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSqlServerServiceTest.java#getSqlServerServicePayloadWithJdbcurl(String, String, int, String, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#getMysqlServicePayloadWithLabelNoUri(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceConnector(String, Class, ServiceConnectorConfig)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getTestCloudConnector(ApplicationInstanceInfo, ServiceInfo[])	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#getMysqlServicePayloadWithLabelNoTags(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#jdbcUrlWithQuery()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/AbstractLocalConfigConnectorTest.java#assertUriParameters(UriBasedServiceInfo)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/SqlServerServiceCreatorTest.java#createServiceInfo()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#jdbcUrlNoUsernamePassword()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PostgresqlServiceCreatorTest.java#createServiceInfo()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorDB2ServiceTest.java#getDB2ServicePayloadWithJdbcurl(String, String, int, String, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorPostgresqlServiceTest.java#getPostgresqlServicePayloadWithJdbcUrl(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceScanTest.java#cloudScanWithNoServices()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudMongoDbFactoryParser.java#parseWriteConcern(Element, Map)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#getMysqlServicePayload(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testLiteral()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/DataSourceCloudConfigTestHelper.java#assertDataSourceType(DataSource, Class)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#jdbcUrlNoPort()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/DB2ServiceCreatorTest.java#setup()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#pool20Wait200()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/AbstractLocalConfigConnectorTest.java#init()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorPostgresqlServiceTest.java#getPostgresqlServicePayloadNoLabelNoTags(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#getMysqlServicePayloadWithJdbcUrl(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#getMysqlServicePayloadWithJdbcUrlOnly(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudFactory.java#scanCloudConnectors()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorPostgresqlServiceTest.java#getPostgresqlServicePayload(String, String, int, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/SqlServerServiceInfo.java#buildJdbcUrl()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithServiceNameSpecified_NoServiceExists_byType()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMongodbServiceTest.java#getMongoServicePayloadNoLabelNoTags(String, String, int, String, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithoutServiceNameSpecified_NoServiceExists_byType()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/RelationalServiceInfo.java#formatPort()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/ApplicationInstanceInfoCreator.java#createApplicationInstanceInfo(Map)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#jdbcFullUrl()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/SqlServerServiceCreatorTest.java#setup()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractUserProvidedServiceInfoCreatorTest.java#getUserProvidedServicePayload(String, String, int, String, String, String, String)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/SpringData1RedisConnectionFactoryConfigurer.java#configure(JedisConnectionFactory, PooledServiceConnectorConfig)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#pool5_30Wait3000()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/DataSourceCloudConfigTestHelper.java#assertConnectionProperties(DataSource, Properties)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testPrecedence()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/OracleServiceInfo.java#buildJdbcUrl()	5
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceCreatorTest.java#assertConnectionProperties(DataSource, Properties)	5
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#assertBasicProps(String, UriBasedServiceInfo, Properties)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#servicesInfosWithEmptyServices()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithoutServiceNameSpecified_UniqueServiceExists()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#setup()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#withConfigAllOptionsSpecifiedWriteConcernNone()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#getUri()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#cloudDataSourceWithoutServiceNameSpecified_TwoMixedServiceExist_byType()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceScanTest.java#cloudScanWithOneService()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#getRabbitServicePayloadWithoutTags(String, String, int, String, String, String, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RabbitConnectionFactoryXmlConfigTest.java#cloudRabbitConnectionFactoryWithConfigurationAndProperties()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RabbitConnectionFactoryXmlConfigTest.java#cloudRabbitConnectionFactoryWithConfiguration()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#withConfigAllOptionsSpecifiedWriteConcernSafe()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithoutServiceNameSpecified_TwoMixedServiceExist_byId()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testTemplate()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#urlEncode(String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RabbitConnectionFactoryXmlConfigTest.java#cloudRabbitConnectionFactoryWithProperties()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudFactoryTest.java#cloudRetriveal()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#getRabbitServicePayloadNoLabelNoTags(String, String, int, String, String, String, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithServiceNameSpecified_UniqueServiceExists()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/RelationalServiceInfoTest.java#jdbcUrl()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithoutServiceNameSpecified_TwoServiceExist_byId()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/DataSourceCloudConfigTestHelper.java#assertPoolProperties(DataSource, int, int, long)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#withConfigOnlyConnectionPerHostSpecified()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#uriFromCredentialsWithNoSchemes()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RedisConnectionFactoryXmlConfigTest.java#cloudRedisConnectionFactoryWithMaxPool()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#getValue(Object, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/EnvironmentAccessor.java#getHost()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorAmqpServiceTest.java#assertAmqpServiceInfo(AmqpServiceInfo, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithoutServiceNameSpecified_TwoServiceExist_byType()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#getQpidServicePayloadNoLabelNoTags(String, String, int, String, String, String, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/UrlDecodingDataSource.java#newSimpleDriverDataSource(String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/UrlDecodingDataSource.java#decode(String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigPropertiesTest.java#cloudPropertiesWithNoServices()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceConfigurer.java#configureConnection(DataSource, DataSourceConfig)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/AbstractLocalConfigConnectorWithUrisTest.java#useTestUris()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/AbstractCloudConnector.java#scanServiceInfoCreators(Class)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getServiceInfoByInvalidId()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/RedisConnectionFactoryXmlConfigTest.java#cloudRedisConnectionFactoryWithMinMaxPool()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/SpringData1RedisServiceConnectorCreatorTest.java#createServiceInfo()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/AbstractHerokuConnectorRelationalServiceTest.java#assertReleationServiceInfo(RelationalServiceInfo, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#getRabbitServicePayloadNoLabelNoTagsSecure(String, String, int, String, String, String, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#getRabbitServicePayloadWithTags(String, String, int, String, String, String, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithoutServiceNameSpecified_TwoMixedServiceExist_byType()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getSingletonServiceConnectorNoService()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/messaging/RabbitConnectionFactoryCreator.java#setConnectionFactoryUri(com.rabbitmq.client.ConnectionFactory, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#withConfigOnlyMaxWaitSpecified()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testFromClasspath()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/SpringData1RedisLettuceConnectionFactoryConfigurer.java#configure(LettuceConnectionFactory, RedisConnectionFactoryConfig)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/TagsTest.java#startsWith()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#parsePath(URI)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#applicationInstanceInfo()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#cloudDataSourceWithoutServiceNameSpecified_TwoMixedServiceExist_byId()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#dataSourceWithPoolAndConnectionConfig()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#servicesInfosWithNullServices()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/MongoServiceInfoCreator.java#createServiceInfo(Map)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#serviceInfoNoServices()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorMongoServiceTest.java#assertMongoServiceInfo(MongoServiceInfo, String)	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/MongoDbFactoryXmlConfigTest.java#withConfigAllOptionsSpecifiedWriteConcernUnspecified()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfo.java#toString()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getSingletonServiceInfoByTypeNoService()	6
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/GenericServiceJavaConfigTest.java#myServiceWithTypeWithServiceNameAndConfig()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorMongoServiceTest.java#serviceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceScanTest.java#skipUnknowServices()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceInfo(String)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getSingletonServiceInfoByType(Class)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/StandardUriInfoFactoryTest.java#createUri()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#getServiceInfo(List, String)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithInvalidDataSource()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/StandardUriInfoFactoryTest.java#createNoUsernamePassword()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#cloudDataSourceWithMinMaxPool()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#createMysqlDataSourceWithPooledName(String)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/TagsTest.java#contains()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/AbstractLocalConfigConnectorTest.java#getServiceInfo(List, String)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#prepareBeanFactory(ConfigurableListableBeanFactory)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getSingletonServiceInfoByTypeSingleService()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/smtp/SmtpServiceConnectorCreatorTest.java#cloudMailSenderCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#cloudRabbitConnectionFactoryWithConfig()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#assertUriRetrieved(DummyServiceInfoCreator, String, String)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithTomcatJdbcDataSource()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisServiceConnectorCreatorTest.java#cloudRedisCreationSecureConnection()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisServiceConnectorCreatorTest.java#createServiceInfo(String)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#serviceInfosWithEmptyCredentials()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/StandardUriInfoFactoryTest.java#createWithExplicitParameters()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#cloudRabbitConnectionFactoryWithConfigAndProperties()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/CloudScanHelper.java#registerServiceBeans(BeanDefinitionRegistry)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisLettuceClientConfigurer.java#configure(LettuceClientConfigurationBuilder, RedisConnectionFactoryConfig)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorMysqlServiceTest.java#serviceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#withConfigOnlyMaxWaitSpecified()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudFactoryTest.java#cloudConnectorRegistration()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/SpringData1RedisServiceConnectorCreatorTest.java#cloudRedisCreationNoConfig()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceTest.java#cloudConnectorWithServiceNameSpecified_TwoServiceExist()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorApplicationTest.java#isInMatchingEnvironment()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryCreatorTest.java#cloudRabbitCreationNoUri()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTestUtil.java#getTestCloudConnector(ServiceInfo[])	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisJedisClientConfigurer.java#configure(JedisClientConfigurationBuilder, RedisConnectionFactoryConfig)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/RedisConnectionFactoryCloudConfigTestHelper.java#assertNoPoolProperties(RedisConnectionFactory)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/AbstractCloudServiceFactoryParser.java#doParse(Element, ParserContext, BeanDefinitionBuilder)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorAmqpServiceTest.java#serviceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithHikariCpDataSource()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#withConfigAllOptionsSpecifiedWriteConcernUnspecified()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMonitoringServiceTest.java#monitoringServiceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorPostgresqlServiceTest.java#serviceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#serviceInfosWithMissingCredentials()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/HerokuConnector.java#getApplicationInstanceInfo()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/PropertiesFileResolver.java#systemPropertiesLookup(EnvironmentAccessor)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithMinMaxPool()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#cloudRabbitConnectionFactoryWithProperties()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorRedisServiceTest.java#getRedisServiceUrl()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorSqlServerServiceTest.java#serviceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorApplicationTest.java#applicationInstanceInfoNoSpringCloudAppName()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorRedisServiceTest.java#serviceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisServiceConnectorCreatorTest.java#cloudRedisCreationNoConfig()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#withConfigAllOptionsSpecifiedWriteConcernSafe()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#pooledDataSourceCreationDefault()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/TagsTest.java#containsOne()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorDB2ServiceTest.java#serviceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#pooledDataSourceCreationTomcatDbcp()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#pooledDataSourceCreationHikariCP()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#isInMatchingEnvironment()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudRabbitConnectionFactoryParser.java#doParse(Element, ParserContext, BeanDefinitionBuilder)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#withConfigAllOptionsSpecifiedWriteConcernNone()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/AbstractHerokuConnectorTest.java#getServiceInfo(List, String)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/MongoDbFactoryJavaConfigTest.java#withConfigOnlyConnectionPerHostSpecified()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#pooledDataSourceCreationTomcatJdbc()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#pooledDataSourceCreationDbcp()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/Util.java#hasClass(String)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/StandardUriInfoFactoryTest.java#createUriWithQuery()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorOracleServiceTest.java#serviceCreation()	7
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/SpringData1RedisConnectionFactoryConfigurer.java#configure(JedisConnectionFactory, RedisConnectionFactoryConfig)	7
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#accept(ServiceConnectorCreator, Class, ServiceInfo)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/AbstractCloudConnector.java#getServiceInfos()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#serviceConnectorCreation()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/document/MongoDbFactoryCreator.java#configure(SimpleMongoDbFactory, MongoDbFactoryConfig)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/SpringData1RedisConnectionFactoryConfigurer.java#configurePool(JedisConnectionFactory, PooledServiceConnectorConfig)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/StandardUriInfoFactoryTest.java#assertUriInfoEquals(UriInfo, String, int, String, String, String, String)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorTest.java#testAppIdInConfigFile()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/CassandraServiceInfoUnitTests.java#shouldContainContactPointsAndPort()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/StubbedOpenFileLocalConfigConnector.java#fileContentsFromStream(String, InputStream)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/smtp/SmtpServiceConnectorCreatorTest.java#assertConnectorProperties(SmtpServiceInfo, MailSender)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudDataSourceFactoryParser.java#parseConnectionElement(Element)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/RelationalServiceInfo.java#formatUserinfo()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudFactory.java#scanServiceConnectorCreators()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#cloudRedisConnectionFactoryWithMaxPool()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#cloudRedisConnectionFactoryWithMinMaxPool()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#assertMongoPropsWithMultipleHostsByUri(String, MongoServiceInfo, Properties)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/PropertiesFileResolverTest.java#testSecurityExceptionHandling()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#getServiceLabel(String)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorAmqpServiceTest.java#getAmqpServiceUrl(String)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#dataSourceWithConnectionPropertiesConfig()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#appPropsWithNullValues()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getSingletonServiceInfoByTypeMultipleServices()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#pooledDataSourceCreationInvalid()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/AbstractHerokuConnectorRelationalServiceTest.java#getJdbcUrl(String)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigPropertiesTest.java#cloudScanWithOneService()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#build()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#serviceInfosForConnectorType()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RedisConnectionFactoryJavaConfigTest.java#cloudRedisConnectionFactoryWithNoPool()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigUtilTest.java#initProperties()	8
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorMongoServiceTest.java#getMongoServiceUrl(String)	8
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#uriBasedParsingEncodedVhost()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceCreatorTest.java#cloudDataSourceCreationNoConfig()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#labelMatches()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#allArgs()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#assertHikariDataSource(DataSource)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#uriBasedParsingUnknownSchemeDefaultPort()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/RelationalServiceInfo.java#formatQuery()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getServiceInfoByValidId()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#uriBasedParsingAmqpDefaultPort()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithConnectionProperties()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/Tags.java#contains(String)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithNoConfig()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#connectionFactoryWithConfigAndProperties()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#getRabbitServicePayloadMultipleUris(String, String, String, int, String, String, String, String)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreatorTests.java#shouldAcceptService()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#uriBasedParsingAmqpsDefaultPort()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisJedisClientConfigurer.java#configurePool(JedisClientConfigurationBuilder, PooledServiceConnectorConfig)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#allArgsEncodedVhost()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/AbstractHerokuConnectorRelationalServiceTest.java#getRelationalServiceUrl(String)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/CassandraClusterFactoryJavaConfigTest.java#testClusterFactoryWithConfig()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#assertBasicProps(String, UriBasedServiceInfo, Properties)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#cloudDataSourceWithConnectionProperties()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSmtpServiceTest.java#getSmtpServicePayload(String, String, String, String)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryCreatorTest.java#cloudRabbitCreationWithUri()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/GenericCloudServiceConnectorFactoryTest.java#creatingBoundServiceWithoutConnectorType()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getSingletonServiceConnectorMultipleServices()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#uriBasedParsingDefaultVhost()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/Tags.java#startsWith(String)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/UriBasedServiceInfoCreator.java#accept(UriBasedServiceData)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/CloudScanHelper.java#registerApplicationInstanceBean(BeanDefinitionRegistry)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#uriBasedParsingEncodedRootVhost()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorRelationalServiceTest.java#getJdbcUrl(String, String)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigConnectorTest.java#testAppIdInFileAndSystem()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreatorTests.java#shouldNotAcceptServiceWithRequiredFieldsMissing()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisLettuceClientConfigurer.java#configurePool(LettuceClientConfigurationBuilder, PooledServiceConnectorConfig)	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceScanTest.java#cloudScanWithTwoServicesOfSameType()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/RabbitConnectionFactoryJavaConfigTest.java#connectionFactoryWithProperties()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#getStringFromCredentials(Map, String[])	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#allArgsEncodedRootVhost()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#serviceInfosWithPostProcessedCredentials()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/AmqpServiceInfoTest.java#uriBasedParsing()	9
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSqlServerServiceTest.java#sqlServerServiceCreationWithNoUri()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceCreatorOrNull(Class, SI)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#rabbitServiceCreationNoLabelNoTagsSecure()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#rabbitServiceCreationWithoutTags()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/messaging/RabbitConnectionFactoryCreator.java#createRabbitConnectionFactory(AmqpServiceInfo)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/MapServiceConnectionConfigurer.java#configure(SC, SCC)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/AmqpServiceInfo.java#decode(String)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnector.java#getApplicationInstanceInfo()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#rabbitServiceCreationWithTags()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/TomcatDbcpPooledDataSourceCreator.java#createDataSource(String, RelationalServiceInfo, ServiceConnectorConfig, String, String)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactoryTest.java#creatingNonExistingServiceShouldFail()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMongodbServiceTest.java#mongoServiceCreation()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/BasicDbcpPooledDataSourceCreator.java#create(RelationalServiceInfo, ServiceConnectorConfig, String, String)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSmtpServiceTest.java#getSmtpServicePayloadWithUri(String, String, int, String, String)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#serviceConnectorCreationDefaultTypeAndConfig()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#tagsMatch()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudFactoryTest.java#cloudServiceConnectorCreatorRegistration()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#rabbitServiceCreationWithoutManagementUri()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/RedisConnectionFactoryCloudConfigTestHelper.java#assertPoolProperties(RedisConnectionFactory, int, int, long)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#getIntFromCredentials(Map, String[])	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#servicePropsMongoMultipleHostsUriString()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#servicePropsRabbit()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/Util.java#setCorrespondingProperties(BeanWrapper, BeanWrapper)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/AbstractPoolingCloudServiceFactoryParser.java#parsePoolElement(Element, ParserContext)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryCreatorTest.java#assertConnectorPropertiesMatchHosts(ConnectionFactory, List)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorRedisServiceTest.java#redisServiceCreationNoLabelNoTags()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceLabel(ServiceInfo)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/smtp/MailSenderCreator.java#create(SmtpServiceInfo, ServiceConnectorConfig)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#whenConnectionToEncodedUrlIsSuccessful()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/service/common/CassandraServiceInfoUnitTests.java#shouldContainContactPointsAndPortAndCredentials()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#rabbitServiceCreationNoLabelNoTags()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigUtilTest.java#testOverride()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/GenericCloudServiceConnectorFactoryTest.java#creatingBoundServiceWithIncorrectConnectorType()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#findProperty(String)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMongodbServiceTest.java#mongoServiceCreationNoLabelNoTags()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/GenericServiceXmlConfigTest.java#cloudGenericServiceWithConnectorType()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorRedisServiceTest.java#redisServiceCreation()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getSingletonServiceConnectorSingleService()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#cloudDataSourceWithNoConfig()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#servicePropsOneServiceOfTheSameLabel()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/HerokuUtil.java#computeServiceName(String)	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/GenericCloudServiceConnectorFactoryTest.java#creatingBoundServiceWithFactoryConnectorType()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/GenericCloudServiceConnectorFactoryTest.java#creatingBoundServiceWithConnectorType()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#serviceInfoMultipleServicesOfTheSameType()	10
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSqlServerServiceTest.java#sqlServerServiceCreation()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfigurer.java#configure(SC, SCC)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/AmqpServiceInfo.java#getPort()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceConfigurer.java#configure(DataSource, DataSourceConfig)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#isInMatchingCloud()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceInfos(Class)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/HerokuConnector.java#registerServiceInfoCreator(ServiceInfoCreator)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorOracleServiceTest.java#oracleServiceCreationWithJdbcUrl()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceCreator.java#createPooledDataSource(SI, ServiceConnectorConfig)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSqlServerServiceTest.java#sqlServerServiceCreationWithJdbcUrl()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/HikariCpPooledDataSourceCreator.java#setBasicDataSourceProperties(DataSource, RelationalServiceInfo, ServiceConnectorConfig, String, String)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#servicePropsRedis()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorDB2ServiceTest.java#db2ServiceCreation()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactoryTest.java#creatingBoundService()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/ServiceLoaderWithExceptionControl.java#next()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudPropertiesFactoryBean.java#afterPropertiesSet()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigServiceOverrideTest.java#serviceOverride()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#onlyConnectToUrlsPassingDecodingTest(String, BiFunction)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getSingletonServiceConnector(Class, ServiceConnectorConfig)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/CassandraClusterFactoryJavaConfigTest.java#cloudCassandraConnectionFactoryConfig()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#readTestDataFile(String)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/Tags.java#containsOne(List)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorPostgresqlServiceTest.java#assertPostgresServiceCreated(String, String)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#compositeServiceInfo()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/HikariCpPooledDataSourceCreator.java#create(RelationalServiceInfo, ServiceConnectorConfig, String, String)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorRedisServiceTest.java#getRedisServicePayload(String, String, String, int, String, String)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorOracleServiceTest.java#oracleServiceCreation()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorDB2ServiceTest.java#db2ServiceCreationWithNoUri()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactory.java#getObjectType()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/TomcatJdbcPooledDataSourceCreator.java#create(RelationalServiceInfo, ServiceConnectorConfig, String, String)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorDB2ServiceTest.java#dServiceCreationWithJdbcUrl()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorRelationalServiceTest.java#getRelationalPayload(String, String, String, int, String, String, String)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#whenConnectionToDecodedUrlIsSuccessful()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#serviceConnectorCreationSpecifiedTypeAndConfig()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#servicePropsTwoServicesOfTheSameLabel()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/AbstractCloudConnectorTest.java#fallbacksCorrectly()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#assertBasicDbcpDataSource(DataSource)	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorOracleServiceTest.java#oracleServiceCreationWithNoUri()	11
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSmtpServiceTest.java#smtpServiceCreation()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getSingletonServiceConnectorNoMatchingServiceConnectorCreator()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceInfosByType(Class)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/AbstractCloudConnector.java#getServiceInfo(SD)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudMongoDbFactoryParser.java#parseMongoOptionsElement(Element, Map)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/mongo/MongoServiceConnectorCreatorTest.java#extractServerAddresses(MongoClient)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/CloudScanHelper.java#initializeCloud(BeanDefinitionRegistry)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/java/AbstractCloudConfig.java#setBeanFactory(BeanFactory)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/column/CassandraClusterCreatorTest.java#shouldCreateClusterWithAuthentication()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorApplicationTest.java#applicationInstanceInfo()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorAmqpServiceTest.java#amqpServiceCreation()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSmtpServiceTest.java#smtpServiceCreationWithUri()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#rabbitServiceCreationWithManagementUri()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#appProps()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/column/CassandraClusterCreatorTest.java#shouldCreateCluster()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigUtilTest.java#testPropertyParsing()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#servicePropsTwoServicesOfTheSameLabel()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/DataSourceXmlConfigTest.java#cloudDataSourceWithMaxPool()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/DataSourceJavaConfigTest.java#cloudDataSourceWithMaxPool()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorMysqlServiceTest.java#mysqlServiceCreation()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/TomcatDbcpPooledDataSourceCreator.java#create(RelationalServiceInfo, ServiceConnectorConfig, String, String)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/java/GenericServiceJavaConfigTest.java#cloudGenericServiceWithConnectorType()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/CloudTest.java#servicePropsOneServiceOfTheSameLabel()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#getServiceInfosByType()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#parseUserinfo(URI)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#getUriFromCredentials(Map)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/messaging/RabbitConnectionFactoryCreator.java#create(AmqpServiceInfo, ServiceConnectorConfig)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#successfulUrlDecodedConnectionTestIsOnlyPerformedOnce()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceCreator(Class, SI)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DbcpLikePooledDataSourceCreator.java#setBasicDataSourceProperties(DataSource, RelationalServiceInfo, ServiceConnectorConfig, String, String)	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#whenNoConnectionIsSuccessful()	12
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#getTestApplicationContext(Class, ServiceInfo[])	13
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#assertUriBasedServiceInfoFields(ServiceInfo, String, String, int, String, String, String)	13
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/document/MongoDbFactoryCreator.java#create(MongoServiceInfo, ServiceConnectorConfig)	13
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#getServicePayload(List)	13
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryCreatorTest.java#assertConnectorPropertiesMatchUri(ConnectionFactory, String)	13
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/StubCloudConnectorTest.java#getTestApplicationContext(String, ServiceInfo[])	13
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#uriKeyMatchesScheme()	13
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#assertStubService(StubServiceInfo, StubServiceConnector, StubServiceConnectorConfig)	13
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactory.java#createService()	13
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/rabbit/RabbitConnectionFactoryCreatorTest.java#cloudRabbitCreationWithUris()	13
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMongodbServiceTest.java#getMongoServicePayload(String, String, String, int, String, String, String, String)	13
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#uriDecode(String)	13
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#uriSchemeMatches()	13
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/CloudFactory.java#getCloud()	14
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/HerokuConnector.java#getServicesData()	14
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorDB2ServiceTest.java#db2ServiceCreationWithSpecialChars()	14
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceCreator.java#create(SI, ServiceConnectorConfig)	14
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/ReflectionUtils.java#getValue(Object, String[])	14
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#flatten(List)	14
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreatorTests.java#shouldCreateServiceInfo()	14
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#uriMatchesScheme(Map)	14
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/MongoDbFactoryCloudConfigTestHelper.java#assertConfigProperties(MongoDbFactory, String, Integer, Integer)	14
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#getAmqpServicePayload(String, String, String, int, String, String, String, String)	14
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/messaging/RabbitConnectionFactoryCreator.java#getAddresses(AmqpServiceInfo)	14
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreatorTests.java#shouldCreateServiceInfoWithCredentials()	14
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorMongoServiceTest.java#mongoServiceCreation()	14
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/test/java/org/springframework/cloud/heroku/HerokuConnectorRedisServiceTest.java#redisServiceCreation()	14
+D:\tmp\spring-cloud-connectors/spring-cloud-heroku-connector/src/main/java/org/springframework/cloud/heroku/ApplicationInstanceInfoCreator.java#createApplicationInstanceInfo()	14
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSqlServerServiceTest.java#sqlServerServiceCreationWithJdbcUrlAndSpecialChars()	15
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getAppProperties()	15
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CassandraServiceInfoCreator.java#createServiceInfo(Map)	15
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/CloudScanHelper.java#registerServiceBean(BeanDefinitionRegistry, ServiceInfo)	15
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorSqlServerServiceTest.java#sqlServerServiceCreationWithSpecialChars()	15
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactoryTest.java#creatingServiceConnectorWithoutIdReturnsTheSignletonService()	15
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/RedisServiceInfoCreator.java#createServiceInfo(Map)	15
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorApplicationTest.java#getApplicationInstanceInfo(String, String[])	15
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/RabbitConnectionFactoryCloudConfigTestHelper.java#assertConfigProperties(ConnectionFactory, Integer, Integer, Integer, int, boolean)	16
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudMongoDbFactoryParser.java#doParse(Element, ParserContext, BeanDefinitionBuilder)	16
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/UrlDecodingDataSourceTest.java#unsuccessfulUrlDecodedConnectionTestIsTriedAgain()	16
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/StubServiceDataPostProcessor.java#process(CloudFoundryRawServiceData)	16
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceCreatorTest.java#cloudDataSourceCreationWithConfig()	16
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#getServicesData()	16
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/PropertiesFileResolver.java#findCloudPropertiesFile()	16
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/AmqpServiceInfoCreator.java#createServiceInfo(Map)	16
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceCreator.java#getDriverClassName(SI)	16
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/document/MongoDbFactoryCreator.java#getMongoOptions(MongoDbFactoryConfig)	16
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CassandraClusterXmlConfigTest.java#cassandraSessionWithConfiguration()	16
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/GenericCloudServiceFactoryParser.java#doParse(Element, ParserContext, BeanDefinitionBuilder)	16
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreationWithJdbcUrlOnlyWithSpecialChars()	17
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/messaging/RabbitConnectionFactoryCreator.java#createSpringConnectionFactory(AmqpServiceInfo, ServiceConnectorConfig, com.rabbitmq.client.ConnectionFactory)	17
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/RelationalServiceInfoCreator.java#jdbcUrlMatchesScheme(Map)	17
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/test/java/org/springframework/cloud/localconfig/LocalConfigUtilTest.java#testCollation()	17
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreator.java#uriKeyMatchesScheme(Map)	17
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#qpidServiceCreationNoLabelNoTags()	17
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreationWithJdbcUrlAndSpecialChars()	18
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreation()	18
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/SpringData1RedisServiceConnectorCreatorTest.java#assertConnectorProperties(RedisServiceInfo, RedisConnectionFactory)	18
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/AbstractCloudServiceFactoryParser.java#postProcessBeanFactory(ConfigurableListableBeanFactory)	18
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/util/UriInfo.java#buildUri()	18
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryServiceInfoCreatorTest.java#uriFromCredentials()	18
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/DataSourceCreator.java#filterPooledDataSourceCreators(ServiceConnectorConfig)	18
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#assertTomcatJdbcDataSource(DataSource, boolean)	19
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreationNoLabelNoTagsWithSpecialChars()	19
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/AbstractDataSourceCreatorTest.java#assertDataSourceProperties(RelationalServiceInfo, DataSource)	19
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/PropertiesFileResolver.java#findCloudPropertiesFileFromSystem()	19
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/test/java/org/springframework/cloud/CloudTest.java#compositeServiceInfoRecursive()	19
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudRabbitConnectionFactoryParser.java#parseRabbitOptionsElement(Element, ParserContext)	20
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorPostgresqlServiceTest.java#postgresqlServiceCreationNoLabelNoTags()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorPostgresqlServiceTest.java#postgresqlServiceCreationWithJdbcUrl()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudRedisConnectionFactoryParser.java#doParse(Element, ParserContext, BeanDefinitionBuilder)	21
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorPostgresqlServiceTest.java#postgresqlServiceCreation()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreationWithLabelNoTags()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreationWithJdbcUrl()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreationWithLabelNoUri()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/AbstractCloudServiceConnectorFactory.java#afterPropertiesSet()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorPostgresqlServiceTest.java#postgresqlWithSpecialCharsServiceCreation()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreationNoLabelNoTags()	21
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/redis/RedisServiceConnectorCreatorTest.java#assertConnectorProperties(RedisServiceInfo, RedisConnectionFactory, boolean)	21
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/AbstractCloudConfigServiceScanTest.java#cloudScanWithAllTypesOfServices()	22
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/SmtpServiceInfoCreator.java#createServiceInfo(Map)	22
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/relational/PooledDataSourceCreatorsTest.java#assertTomcatDbcpDataSource(DataSource)	22
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/mongo/MongoServiceConnectorCreatorTest.java#cloudMongoCreationNoConfig()	23
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnector.java#getServicesData()	23
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/service/common/AmqpServiceInfo.java#validateAndCleanUriInfo(UriInfo)	24
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigUtil.java#readServices(Properties)	24
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorMysqlServiceTest.java#mysqlServiceCreationWithJdbcUrlOnly()	24
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/PooledServiceConnectorConfig.java#determinePoolSizeRange(String)	25
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/config/xml/CloudAllServicesTest.java#allServicesProvisioned()	27
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/relational/UrlDecodingDataSource.java#getConnection()	27
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/main/java/org/springframework/cloud/cloudfoundry/RelationalServiceInfoCreator.java#createServiceInfo(Map)	28
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getCloudProperties()	28
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/CloudFoundryConnectorAmqpServiceTest.java#rabbitServiceCreationMultipleUris()	28
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigConnector.java#readFileProperties()	29
+D:\tmp\spring-cloud-connectors/spring-cloud-cloudfoundry-connector/src/test/java/org/springframework/cloud/cloudfoundry/AbstractCloudFoundryConnectorTest.java#getServicesPayload(String[])	29
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/column/CassandraClusterCreatorTest.java#shouldCreateClusterWithConfig()	30
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudNamespaceHandler.java#init()	30
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/LocalConfigUtil.java#readServicesData(LinkedHashMap)	30
+D:\tmp\spring-cloud-connectors/spring-cloud-core/src/main/java/org/springframework/cloud/Cloud.java#getServiceProperties(String, ServiceInfo)	32
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/test/java/org/springframework/cloud/service/mongo/MongoServiceConnectorCreatorTest.java#cloudMongoCreationWithMultipleHostsByUri()	33
+D:\tmp\spring-cloud-connectors/spring-cloud-localconfig-connector/src/main/java/org/springframework/cloud/localconfig/PropertiesFileResolver.java#findCloudPropertiesFileFromClasspath()	37
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudDataSourceFactoryParser.java#doParse(Element, ParserContext, BeanDefinitionBuilder)	38
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/SpringData1RedisConnectionFactoryCreator.java#create(RedisServiceInfo, ServiceConnectorConfig)	41
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/column/CassandraClusterCreator.java#create(CassandraServiceInfo, ServiceConnectorConfig)	42
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/config/xml/CloudCassandraSessionParser.java#doParse(Element, ParserContext, BeanDefinitionBuilder)	48
+D:\tmp\spring-cloud-connectors/spring-cloud-spring-service-connector/src/main/java/org/springframework/cloud/service/keyval/RedisConnectionFactoryCreator.java#create(RedisServiceInfo, ServiceConnectorConfig)	60
