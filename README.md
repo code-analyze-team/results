@@ -28,3 +28,11 @@ spring-ldap
 spring-restdocs
 
 spring-session
+
+# need compile
+spring-security-kerberos
+
+spring-cloud-connectors
+
+spring-cloud-broker
+
