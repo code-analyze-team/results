@@ -30,7 +30,7 @@ spring-restdocs
 spring-session
 
 # need compile
-spring-security-kerberos
+spring-security-kerberos (not updated)
 
 spring-cloud-connectors
 
